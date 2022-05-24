@@ -1,4 +1,10 @@
-### Hi there 👋, I'm [Dionizio](https://jvdionizio.github.io/)!
+### Hi there, I'm [Dionizio](https://jvdionizio.github.io/)!
+
+## About me
+
+I'm a student of Computer Science at ICMC -  USP and Web Development at Trybe, besides that, I'm Electronics Technician by ETESP.
+Currently, I'm learning C language and JavaScript and  I'm anxious to learn Python as programming logic.
+I have experience with Google and Office 365 tools and other programs like Figma, Visual Studio, Slack, Notion and Zoom.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdionizio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
