@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdionizio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href="https://www.linkedin.com/in/jvdionizio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
