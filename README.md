@@ -2,9 +2,10 @@
 
 ## About me
 
-I'm a student of Design at PUC -  SP and Web Development at Trybe, besides that, I'm Electronics Technician by ETESP.
-Currently, I'm learning C language and JavaScript and  I'm anxious to learn Python as programming logic.
-I have experience with Figma and Abobe Illustrator tools and other programs like Visual Studio, Slack, Notion and Zoom.
+I'm a student of Interaction Design at PUC-SP and Web Development at Trybe, in addition, I'm an Electronics Technician at ETESP.
+I am currently mastering JavaScript, I'm studying Python and I'm looking forward to learning Flutter.
+I am familiar with frameworks and tools like React, Figma, Adobe Illustrator, Adobe XD, and Visual Studio and with other programs like Slack, Notion, Git, and GitHub.
+I'm a very communicative person, passionate about problem-solving and accessibility and I'm looking forward to starting out in the job market as a UX/UI Designer and Front-end Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdionizio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
