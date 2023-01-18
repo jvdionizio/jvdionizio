@@ -7,8 +7,8 @@ I am currently mastering JavaScript, I'm studying Python and I'm looking forward
 I am familiar with frameworks and tools like React, Figma, Adobe Illustrator, Adobe XD, and Visual Studio and with other programs like Slack, Notion, Git, and GitHub.
 I'm a very communicative person, passionate about problem-solving and accessibility and I'm looking forward to starting out in the job market as a UX/UI Designer and Front-end Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdionizio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdionizio)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href="https://www.linkedin.com/in/jvdionizio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
