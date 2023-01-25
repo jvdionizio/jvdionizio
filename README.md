@@ -1,4 +1,4 @@
-### Hi there, I'm [Dionizio](https://jvdionizio.github.io/)!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=250CFF&size=35&center=false&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+João+Dionizio;Desenvolvedor+Web+Full-Stack)](https://git.io/typing-svg)
 
 ## About me
 
