@@ -4,7 +4,7 @@
 
 I'm a student of Interaction Design at PUC-SP and Web Development at Trybe, in addition, I'm an Electronics Technician at ETESP.
 I am currently mastering JavaScript, I'm studying Python and I'm looking forward to learning Flutter.
-I am familiar with frameworks and tools like React, Figma, Adobe Illustrator, Adobe XD, and Visual Studio and with other programs like Slack, Notion, Git, and GitHub.
+I am familiar with frameworks and tools like React, Figma, Adobe Illustrator, Adobe XD, Visual Studio and with other programs like Slack, Notion, Git, and GitHub.
 I'm a very communicative person, passionate about problem-solving and accessibility and I'm looking forward to starting out in the job market as a UX/UI Designer and Front-end Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvdionizio&show_icons=true&theme=transparent)
